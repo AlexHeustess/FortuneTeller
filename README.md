@@ -1,2 +1,2 @@
 # FortuneTeller
-FileReaderTest
+A Fortune teller
